@@ -1,0 +1,1 @@
+# Autohotkey-MouseMove-script
