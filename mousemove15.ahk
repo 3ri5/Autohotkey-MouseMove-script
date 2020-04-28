@@ -9,3 +9,5 @@ If ( A_TimeIdle > 150000 ) {
 Return
 
 Esc::ExitApp
+
+; only runs as executable
