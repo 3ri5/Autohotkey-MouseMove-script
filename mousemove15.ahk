@@ -2,9 +2,9 @@
 SetTimer, MoveMouse
 
 MoveMouse:
-If ( A_TimeIdle > 899999 ) {
+If ( A_TimeIdle > 150000 ) {
   MouseMove, 20, 30, 35, R 
-  MouseMove, -20, -30, 35, R ; returns to orig. pos?
+  MouseMove, -20, -30, 35, R
 }
 Return
 
