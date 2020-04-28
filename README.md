@@ -4,6 +4,6 @@ After 15 minutes, mouse moves up and down and then returns to its original posit
 <header> 
 <h2>Usage</h2> 
 </header> 
-<p>Cannot run on hotkey currently. Esc will terminate it.</p>
+<p>mousemove15.ahk runs as executable. mmhotkey.ahk runs on hotkey Ctrl + Alt + a. Esc will terminate.</p>
 <p> </p>
 <p>Language: AutoHotKey</p>
